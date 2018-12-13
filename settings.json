@@ -1,0 +1,12 @@
+{
+	"username" : "botuser",
+	"oauth" : "oauth:key",
+	"channel" : "streamerchatchannel",
+
+	"command" : "!test",
+	"command_message" : "Notepad killed",
+	"program" : "notepad.exe",
+
+	"onlyMods" : true,
+	"allowed" : ["user1", "user2"]
+}
