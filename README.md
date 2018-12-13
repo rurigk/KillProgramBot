@@ -1,14 +1,17 @@
-
 # KillProgramBot
 
 Recently many twitch streamers have been falling asleep, for that reason I created this little bot to help them in those cases
 
 This bot fulfills a very simple task, it kills a program when a designated twitch user executes a command in the channel chat
 
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/rurigk)
+
 ## How to use
 
 You can run the script with nodejs
+
 or
+
 You can download executable version at [Releases](https://github.com/rurigk/KillProgramBot/releases)
 
 ## Configuration
